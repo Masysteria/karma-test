@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Masysteria",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "karma": "^0.12.31",
+    "karma-chrome-launcher": "^0.1.7"
+  }
 }
